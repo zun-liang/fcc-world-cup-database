@@ -156,6 +156,7 @@ This is a solution to the [Build a World Cup Database](https://www.freecodecamp.
 - There's a number of mathematic functions to use with numerical columns. One of them is ```MIN```, you can use it when selecting a column like this: ```SELECT MIN(<column>) FROM <table>```. It will find the lowest value in the column. 
 - MAX to find the largest value
 - ```SUM```: values add up to
+- to add up two columns: SUM(COLUMN1 + COLUMN2)
 - ```AVG```: average value
 - You can round decimals up or down to the nearest whole number with ```CEIL``` and ```FLOOR```, respectively. Here's an example: ```CEIL(<number_to_round>)```.
 - you can round a number to the nearest whole number with ```ROUND```.
