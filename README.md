@@ -1,6 +1,6 @@
 # freeCodeCamp - Build a World Cup Database
 
-This is a solution to the [Build a World Cup Database](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database).
+This is a solution to the freeCodeCamp project [Build a World Cup Database](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database).
 
 ## What I learned
 
